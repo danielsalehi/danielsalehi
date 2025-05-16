@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Daniel Salehi</h1>
+<h3 align="center">Indie Game Developer & Web App Programmer</h3>
 
-<!--
-**danielsalehi/danielsalehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 I'm an indie game developer and founder of **Enigma Development Studio**  
+💻 I have over **10 years of experience** in software development  
+🧠 Passionate about creating games and tools that inspire and engage  
+🚀 Skilled in both front-end and back-end technologies
+
+---
+
+## 🧰 Tech Stack
+
+- 💡 **Languages:** C#, PHP, Dart (Flutter), JavaScript  
+- 🎮 **Game Dev:** Unity 3D, Game Design, Level Design  
+- 🛠️ **Frameworks/Tools:** ASP.NET Core, Laravel, Flutter, MySQL, Git  
+
+---
+
+## 🧪 What I'm Working On
+
+- Building productivity apps with Flutter and .NET backend  
+- Prototyping new game ideas under Enigma Development Studio " The Last "
+- Sharing knowledge and tools with the dev community
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: [danielsalehi.dev@gmail.com](mailto:danialsalehi18pub@gmail.com)  
+- 📷 Instagram: [@danielsalehii](https://instagram.com/danielsalehii)  
+- 💬 Telegram: [@MrDeebuger](https://t.me/MrDeebuger)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielsalehi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🚀 Let's Build Something Awesome Together!
