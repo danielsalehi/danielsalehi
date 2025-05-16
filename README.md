@@ -30,7 +30,7 @@
 
 ## 📬 Contact Me
 
-- 📧 Email: [danielsalehi.dev@gmail.com](mailto:danialsalehi18pub@gmail.com)  
+- 📧 Email: [danialsalehi18pub@gmail.com](mailto:danialsalehi18pub@gmail.com)  
 - 📷 Instagram: [@danielsalehii](https://instagram.com/danielsalehii)  
 - 💬 Telegram: [@MrDeebuger](https://t.me/MrDeebuger)
 
