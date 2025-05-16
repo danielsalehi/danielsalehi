@@ -1,5 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Daniel Salehi</h1>
-<h3 align="center">Indie Game Developer & Web App Programmer</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmx3NWx4aDZ4Y2dwYjZnczU1MGhiMGZyNnp6OHliYmZ3ZHZqN3AzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300" alt="Exploding PC GIF" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daniel+Salehi+%F0%9F%91%8B;Indie+Game+Developer+%7C+10%2B+Years+Experience;Unity+3D+%7C+C%23+%7C+Dart+%7C+PHP;Founder+of+Enigma+Development+Studio" />
+</p>
 
 ---
 
