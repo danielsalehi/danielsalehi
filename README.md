@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmx3NWx4aDZ4Y2dwYjZnczU1MGhiMGZyNnp6OHliYmZ3ZHZqN3AzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300" alt="Programming Pengu" />
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="300" alt="Programming Pengu" />
 </p>
 
 <p align="center">
