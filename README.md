@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmx3NWx4aDZ4Y2dwYjZnczU1MGhiMGZyNnp6OHliYmZ3ZHZqN3AzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300" alt="Exploding PC GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmx3NWx4aDZ4Y2dwYjZnczU1MGhiMGZyNnp6OHliYmZ3ZHZqN3AzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300" alt="Programming Pengu" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WELCOME+TO+MY+GITHUB)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=WELCOME+TO+MY+GITHUB" />
+</p>
 
 ---
 
